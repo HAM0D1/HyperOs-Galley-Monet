@@ -1,5 +1,7 @@
-optimize in installation script
-optimize fix errors
-delete unwanted codes
-improvement and Enabled HWUI Vulkan rendering and other system props (fixes for A14 framerate override, color changes, and more) for extra smoothness
-fix error when delete dex optimization during inspiration
+New in V4:
+• improvement in code script
+• Drop support for 32Bit it's drain battery
+• updated Viewer & Ai
+• correct my username in module prop
+• reduced Module Size 1MB
+• builded at 2024-7-6
